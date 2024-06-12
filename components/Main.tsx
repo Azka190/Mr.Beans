@@ -2,7 +2,7 @@ import React from 'react'
 
 function Main() {
   return (
-    <div className='flex  w-[1280px] h-[720px]'>
+    <div className='flex bg-custom-blue'>
         <div className='text-white  mt-[51px] ml-[128px]'>
             <button className=' bg-custom-gradient w-[134px] h-[64px] mt-[179px]  rounded-custom '>Hello,i'm </button>
             <h1 className='font-[500] text-[50px] h-[84.38px] font[roboto]'>Mr. Beans</h1>

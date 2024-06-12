@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       backgroundColor: {
         'custom-blue': '#27323E',
+        'custom-black':'#212529',
       },
       backgroundImage: {
         'custom-gradient': 'linear-gradient(108.35deg, #FC4A1A -36.03%, #FC4A1A -36.01%, #F7B733 128.44%)',
